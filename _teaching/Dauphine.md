@@ -8,13 +8,7 @@ date: 2020-09-01
 location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Practical sessions for different courses in the 4 first years in the MIDO department of Université Paris-Dauphine.
+Courses taught include : Real Analysis, Probability, Numerical Analysis (L2), Ordinary Difer-
+ential Equations (L3), Introduction to advanced Analysis (M1), Practical sessions for
+"Minimal Paths and Deformable Models" (M2 MVA)

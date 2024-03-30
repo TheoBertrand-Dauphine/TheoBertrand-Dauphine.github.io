@@ -12,4 +12,18 @@ Methods in Computer Vision</i>, Eds.,
 Cham: Springer International Publishing, 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract. Leveraging geodesic distances and the geometrical informa-
+tion they convey is key for many data-oriented applications in imaging.
+Geodesic distance computation has been used for long for image segmen-
+tation using Image based metrics. We introduce a new method by gen-
+erating isotropic Riemannian metrics adapted to a problem using CNN
+and give as illustrations an example of application. We then apply this
+idea to the segmentation of brain tumours as unit balls for the geodesic
+distance computed with the metric potential output by a CNN, thus
+imposing geometrical and topological constraints on the output mask.
+We show that geodesic distance modules work well in machine learn-
+ing frameworks and can be used to achieve state-of-the-art performances
+while ensuring geometrical and/or topological properties.
+
+Keywords: Geodesic Distance · Riemannian metric learning · Segmen-
+tation.
