@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+* Programming
+  * Python (Numpy, PyTorch, Weights and Biases & other scientific computing libraries)
+  * C++, LaTeX, MATLAB
+  * Inverse problem models, PDEs for imaging, Machine learning, Optimal Transport
+* Public speaking, Pedagogy, Team work, Long-term projects
 
 Publications
 ======
