@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Vision, Université Paris-Dauphine PSL, 2024 (expected)
+* M.S. in Engineering, Ecole Centrale Lyon, 2020
+* M.S. in Applied Mathematics, Vision/Imaging Specialization, Université Claude Bernard Lyon 1 and Ecole Centrale Lyon, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020-2024 : PhD Student Researcher
+  * Université Paris-Dauphine PSL
+  * Duties includes: Research on Geodesic Methods and Machine Learning for Ultrasound Localization Microscopy
+  * Supervisor: Laurent D. Cohen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020 : Research Internship
+  * Laboratoire d'Imagerie Biomédicale/CNRS
+  * Duties included: Adapting Geodesic methods from the Literature to ULM data
+  * Supervisor: Laurent D. Cohen and Olivier Couture
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Internship
+  * Manchester University
+  * Duties included: Expanding the FEM library
+  * Supervisor: Mathias Heil
   
 Skills
 ======
