@@ -3,7 +3,7 @@ title: "Fast Marching Energy CNN"
 collection: publications
 permalink: /publication/FMECNN
 excerpt: 'This paper investigates the possibility to learn how to generate a potential from medical images to segment brain tumours as unit balls of the associated geodesic distance.'
-date: 2023-05
+date: 2023-05-01
 venue: 'Scale Space and Variational
 Methods in Computer Vision'
 paperurl: 'http://TheoBertrand-Dauphine.github.io/files/FMECNN-4.pdf'
