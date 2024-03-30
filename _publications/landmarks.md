@@ -8,7 +8,7 @@ date: 2024-05-01
 venue: 'Proceedings of the 4th International Conference on Image
 Processing and Vision Engineering (IMPROVE 2024)'
 paperurl: 'http://TheoBertrand-Dauphine.github.io/files/landmarks.pdf'
-citation: 'T. Bertrand and L. D. Cohen, “Fitting tree model with CNN and geodesics to track blood vessels in 2Dmedical images and application to Ultrasound Localization Microscopydata,” in <i>Proceedings of the 4th International Conference on Image
+citation: 'T. Bertrand and L. D. Cohen, “Fitting tree model with CNN and geodesics to track blood vessels in 2D medical images and application to Ultrasound Localization Microscopy data,” in <i>Proceedings of the 4th International Conference on Image
 Processing and Vision Engineering (IMPROVE 2024)</i>'
 ---
 
